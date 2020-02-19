@@ -1,0 +1,7 @@
+media/
+*pyc
+db.sqlite3
+.DS_Store
+*.py[cod]
+__pycache__/
+.Python
